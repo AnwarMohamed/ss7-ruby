@@ -6,12 +6,12 @@ require 'ss7/ruby/version'
 Gem::Specification.new do |spec|
   spec.name          = "ss7-ruby"
   spec.version       = Ss7::Ruby::VERSION
-  spec.authors       = ["AnwarMohamed"]
-  spec.email         = ["anwarelmakrahy@gmail.com"]
+  spec.authors       = ["Anwar Mohamed", "Loay Abd ElRazek"]
+  spec.email         = ["anwarelmakrahy@gmail.com", "loay.razek@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{}
+  spec.description   = %q{}
+  spec.homepage      = ""
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
